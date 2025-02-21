@@ -1,0 +1,1 @@
+([('invaders', '/Users/jason/spaceinvaders/dist/invaders', 'EXECUTABLE')],)
